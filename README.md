@@ -3,9 +3,6 @@
 ## Overview
 This repository contains the work done as part of the CS772 course project during the 6th semester.
 
-## Motivation
-With the increasing emphasis on data privacy and regulations like GDPR, there is a growing demand for mechanisms that allow users to request the deletion of their data from machine learning models. However, retraining models from scratch is often time-consuming and resource-intensive. Zero-Shot Machine Unlearning provides a faster and more efficient approach to remove specific data from an already trained model.
-
 ## Project Team
 This project was a collaborative effort by the following team members:
 
