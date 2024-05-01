@@ -4,8 +4,6 @@
 This repository contains the work done as part of the CS772 course project during the 6th semester.
 
 ## Project Team
-This project was a collaborative effort by the following team members:
-
 - Krish @flintmarko
 - Siddharth @sid-kal
 - Shubham @SP1029
